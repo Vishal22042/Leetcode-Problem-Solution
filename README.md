@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"><!-- PROBLEMS-TABLE-START -->
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=header&amp;text=LeetCode%20Solutions&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mastering%20Data%20Structures%20and%20Algorithms&amp;descAlignY=51&amp;descAlign=62" alt="Hero Banner" />
   
   <br/>
@@ -176,9 +176,9 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Concatenate Non-Zero Digits and Multiply by Sum II](./4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [concatenate-non-zero-digits-and-multiply-by-sum-ii.java](./4136-concatenate-non-zero-digits-and-multiply-by-sum-ii/concatenate-non-zero-digits-and-multiply-by-sum-ii.java) |
 | [Sum of GCD of Formed Pairs](./4242-sum-of-gcd-of-formed-pairs) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [sum-of-gcd-of-formed-pairs.java](./4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
 
----
+<!-- PROBLEMS-TABLE-END -->
 
-## 🤝 Let's Connect
+
 
 <div align="center">
   <a href="https://github.com/Vishal22042">
