@@ -1,4 +1,72 @@
-<div align="center"><!-- PROBLEMS-TABLE-START -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=header&amp;text=LeetCode%20Solutions&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mastering%20Data%20Structures%20and%20Algorithms&amp;descAlignY=51&amp;descAlign=62" alt="Hero Banner" />
+  
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Consistent+Problem+Solving;Mastering+Algorithms;Cracking+the+Coding+Interview)](https://git.io/typing-svg)
+  
+  <br/>
+  
+  <p align="center">
+    <a href="https://github.com/Vishal22042/Leetcode-Problem-Solution"><img src="https://img.shields.io/github/repo-size/Vishal22042/Leetcode-Problem-Solution?style=for-the-badge&color=blue" alt="Repo Size"></a>
+    <a href="https://github.com/Vishal22042/Leetcode-Problem-Solution/commits/main"><img src="https://img.shields.io/github/last-commit/Vishal22042/Leetcode-Problem-Solution?style=for-the-badge&color=green" alt="Last Commit"></a>
+    <a href="https://github.com/Vishal22042"><img src="https://img.shields.io/github/followers/Vishal22042?style=for-the-badge&color=orange" alt="Followers"></a>
+  </p>
+  
+  <img src="https://profile-counter.glitch.me/Vishal22042/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+## 🚀 About This Repository
+
+Welcome to my **LeetCode Solutions** repository! This workspace is dedicated to my journey of continuous learning and problem-solving. Here, you will find highly optimized, clean, and well-documented solutions to various algorithmic and data structure challenges from [LeetCode](https://leetcode.com).
+
+### 🎯 Goals
+- **Strengthen** fundamental programming concepts.
+- **Enhance** problem-solving skills and logic building.
+- **Prepare** for technical coding interviews.
+- **Maintain** a consistent coding streak.
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal22042&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" alt="GitHub Streak" /></a>
+</div>
+
+### 📈 Activity & Contributions
+<div align="center">
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal22042&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Activity Graph" width="100%" /></a>
+</div>
+
+---
+
+## 🧩 LeetCode Topics & Solutions
+
+Here is the comprehensive list of problems I have solved, organized automatically for easy navigation.
+
+> [!TIP]
+> **Quick Search:** 
+> - Press <kbd>Ctrl</kbd> + <kbd>F</kbd> (or <kbd>Cmd</kbd> + <kbd>F</kbd> on Mac) to search for any problem on this page.
+> - Or use [🔍 GitHub Repository Search](https://github.com/Vishal22042/Leetcode-Problem-Solution/search) to search for specific topics/code files in this repo.
+
+### 📚 Algorithms & Data Structures
+
+<!-- PROBLEMS-TABLE-START -->
 | Problem | Difficulty | Solution |
 | :--- | :---: | :--- |
 | [Two Sum](./1-two-sum) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [two-sum.java](./1-two-sum/two-sum.java) |
