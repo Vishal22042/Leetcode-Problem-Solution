@@ -13,7 +13,6 @@
     <a href="https://github.com/Vishal22042"><img src="https://img.shields.io/github/followers/Vishal22042?style=for-the-badge&color=orange" alt="Followers"></a>
   </p>
   
-  <img src="https://profile-counter.glitch.me/Vishal22042/count.svg" alt="Visitor Count" />
 </div>
 
 ---
