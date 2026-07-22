@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LeetCode%20Solutions&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Mastering%20Data%20Structures%20and%20Algorithms&descAlignY=51&descAlign=62" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=header&amp;text=LeetCode%20Solutions&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mastering%20Data%20Structures%20and%20Algorithms&amp;descAlignY=51&amp;descAlign=62" alt="Hero Banner" />
   
   <br/>
   
@@ -45,24 +45,24 @@ Welcome to my **LeetCode Solutions** repository! This workspace is dedicated to 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal22042&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal22042&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-stats.vercel.app/api?username=Vishal22042&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal22042&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" alt="GitHub Streak" /></a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal22042&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal22042&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Top Languages" /></a>
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vishal22042&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Vishal22042&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;v=1" alt="GitHub Trophies" />
   </a>
 </div>
 
 ### 📈 Activity & Contributions
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal22042&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal22042&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Activity Graph" width="100%" /></a>
 </div>
 
 ---
@@ -199,5 +199,5 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" alt="Footer" />
 </div>
