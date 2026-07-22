@@ -45,19 +45,7 @@ Welcome to my **LeetCode Solutions** repository! This workspace is dedicated to 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Vishal22042"><img src="https://github-readme-stats.vercel.app/api?username=Vishal22042&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="GitHub Stats" /></a>
   <a href="https://github.com/Vishal22042"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal22042&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" alt="GitHub Streak" /></a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/Vishal22042"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal22042&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Top Languages" /></a>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vishal22042&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;v=1" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ### 📈 Activity & Contributions
