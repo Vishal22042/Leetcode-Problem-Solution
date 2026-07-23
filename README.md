@@ -110,6 +110,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Jump Game II](./45-jump-game-ii) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [jump-game-ii.java](./45-jump-game-ii/jump-game-ii.java) |
 | [Rotate Image](./48-rotate-image) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [rotate-image.java](./48-rotate-image/rotate-image.java) |
 | [Group Anagrams](./49-group-anagrams) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [group-anagrams.java](./49-group-anagrams/group-anagrams.java) |
+| [Pow(x, n)](./50-powx-n) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [powx-n.java](./50-powx-n/powx-n.java) |
 | [Jump Game](./55-jump-game) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [jump-game.java](./55-jump-game/jump-game.java) |
 | [Length of Last Word](./58-length-of-last-word) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [length-of-last-word.java](./58-length-of-last-word/length-of-last-word.java) |
 | [Permutation Sequence](./60-permutation-sequence) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [permutation-sequence.java](./60-permutation-sequence/permutation-sequence.java) |
@@ -141,6 +142,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Gas Station](./134-gas-station) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [gas-station.java](./134-gas-station/gas-station.java) |
 | [Candy](./135-candy) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [candy.java](./135-candy/candy.java) |
 | [Linked List Cycle](./141-linked-list-cycle) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [linked-list-cycle.java](./141-linked-list-cycle/linked-list-cycle.java) |
+| [Reorder List](./143-reorder-list) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [reorder-list.java](./143-reorder-list/reorder-list.java) |
 | [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [intersection-of-two-linked-lists.java](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) |
 | [Majority Element](./169-majority-element) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [majority-element.java](./169-majority-element/majority-element.java) |
 | [Factorial Trailing Zeroes](./172-factorial-trailing-zeroes) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [factorial-trailing-zeroes.java](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.java) |
