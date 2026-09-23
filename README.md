@@ -165,6 +165,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Happy Number](./202-happy-number) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [happy-number.java](./202-happy-number/happy-number.java) |
 | [Remove Linked List Elements](./203-remove-linked-list-elements) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [remove-linked-list-elements.java](./203-remove-linked-list-elements/remove-linked-list-elements.java) |
 | [Count Primes](./204-count-primes) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [count-primes.java](./204-count-primes/count-primes.java) |
+| [Isomorphic Strings](./205-isomorphic-strings) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [isomorphic-strings.java](./205-isomorphic-strings/isomorphic-strings.java) |
 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [minimum-size-subarray-sum.java](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) |
 | [Valid Anagram](./242-valid-anagram) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [valid-anagram.java](./242-valid-anagram/valid-anagram.java) |
 | [Move Zeroes](./283-move-zeroes) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [move-zeroes.java](./283-move-zeroes/move-zeroes.java) |
