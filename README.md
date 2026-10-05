@@ -179,6 +179,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Binary Search](./792-binary-search) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [binary-search.java](./792-binary-search/binary-search.java) |
 | [Image Overlap](./864-image-overlap) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [image-overlap.java](./864-image-overlap/image-overlap.java) |
 | [Rectangle Overlap](./866-rectangle-overlap) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [rectangle-overlap.java](./866-rectangle-overlap/rectangle-overlap.java) |
+| [Score of Parentheses](./886-score-of-parentheses) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [score-of-parentheses.java](./886-score-of-parentheses/score-of-parentheses.java) |
 | [Mirror Reflection](./888-mirror-reflection) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [mirror-reflection.java](./888-mirror-reflection/mirror-reflection.java) |
 | [Stone Game](./909-stone-game) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [stone-game.java](./909-stone-game/stone-game.java) |
 | [Fibonacci Number](./1013-fibonacci-number) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [fibonacci-number.java](./1013-fibonacci-number/fibonacci-number.java) |
