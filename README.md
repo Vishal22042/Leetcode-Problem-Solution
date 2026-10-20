@@ -259,6 +259,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Concatenate Non-Zero Digits and Multiply by Sum I](./4135-concatenate-non-zero-digits-and-multiply-by-sum-i) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [concatenate-non-zero-digits-and-multiply-by-sum-i.java](./4135-concatenate-non-zero-digits-and-multiply-by-sum-i/concatenate-non-zero-digits-and-multiply-by-sum-i.java) |
 | [Concatenate Non-Zero Digits and Multiply by Sum II](./4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [concatenate-non-zero-digits-and-multiply-by-sum-ii.java](./4136-concatenate-non-zero-digits-and-multiply-by-sum-ii/concatenate-non-zero-digits-and-multiply-by-sum-ii.java) |
 | [Sum of GCD of Formed Pairs](./4242-sum-of-gcd-of-formed-pairs) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [sum-of-gcd-of-formed-pairs.java](./4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
+| [Sum of Sortable Integers](./4257-sum-of-sortable-integers) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [sum-of-sortable-integers.java](./4257-sum-of-sortable-integers/sum-of-sortable-integers.java) |
 <!-- PROBLEMS-TABLE-END -->
 
 
