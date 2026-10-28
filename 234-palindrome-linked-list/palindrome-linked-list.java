@@ -17,13 +17,11 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        // Find the middle of the linked list
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        // Reverse the second half
         ListNode prev = null;
         ListNode curr = slow;
 
@@ -34,7 +32,6 @@ class Solution {
             curr = nextNode;
         }
 
-        // Compare both halves
         ListNode first = head;
         ListNode second = prev;
 
