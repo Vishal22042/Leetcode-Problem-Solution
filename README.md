@@ -168,6 +168,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Isomorphic Strings](./205-isomorphic-strings) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [isomorphic-strings.java](./205-isomorphic-strings/isomorphic-strings.java) |
 | [Reverse Linked List](./206-reverse-linked-list) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [reverse-linked-list.java](./206-reverse-linked-list/reverse-linked-list.java) |
 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [minimum-size-subarray-sum.java](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) |
+| [Palindrome Linked List](./234-palindrome-linked-list) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [palindrome-linked-list.java](./234-palindrome-linked-list/palindrome-linked-list.java) |
 | [Valid Anagram](./242-valid-anagram) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [valid-anagram.java](./242-valid-anagram/valid-anagram.java) |
 | [Move Zeroes](./283-move-zeroes) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [move-zeroes.java](./283-move-zeroes/move-zeroes.java) |
 | [Ransom Note](./383-ransom-note) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [ransom-note.java](./383-ransom-note/ransom-note.java) |
