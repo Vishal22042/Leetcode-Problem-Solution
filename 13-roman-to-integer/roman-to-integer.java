@@ -1,21 +1,23 @@
+
 class Solution {
     public int romanToInt(String s) {
-        int ans = 0;
+        int result = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            int curr = value(s.charAt(i));
+            int current = getValue(s.charAt(i));
 
-            if (i + 1 < s.length() && curr < value(s.charAt(i + 1))) {
-                ans -= curr;
+            if (i + 1 < s.length() &&
+                current < getValue(s.charAt(i + 1))) {
+                result -= current;
             } else {
-                ans += curr;
+                result += current;
             }
         }
 
-        return ans;
+        return result;
     }
 
-    private int value(char ch) {
+    public int getValue(char ch) {
         switch (ch) {
             case 'I': return 1;
             case 'V': return 5;
@@ -24,7 +26,7 @@ class Solution {
             case 'C': return 100;
             case 'D': return 500;
             case 'M': return 1000;
+            default: return 0;
         }
-        return 0;
     }
 }
