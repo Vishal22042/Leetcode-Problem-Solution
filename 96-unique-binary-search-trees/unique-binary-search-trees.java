@@ -1,3 +1,4 @@
+
 class Solution {
     public int numTrees(int n) {
         int[] dp = new int[n + 1];
@@ -5,12 +6,9 @@ class Solution {
         dp[0] = 1;
         dp[1] = 1;
 
-        for (int nodes = 2; nodes <= n; nodes++) {
-            for (int root = 1; root <= nodes; root++) {
-                int left = root - 1;
-                int right = nodes - root;
-
-                dp[nodes] += dp[left] * dp[right];
+        for (int i = 2; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                dp[i] += dp[j - 1] * dp[i - j];
             }
         }
 
