@@ -4,35 +4,41 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
-    private TreeNode first = null;
-    private TreeNode second = null;
-    private TreeNode prev = new TreeNode(Integer.MIN_VALUE);
+    TreeNode first;
+    TreeNode second;
+    TreeNode prev;
 
     public void recoverTree(TreeNode root) {
-        
-        traverse(root);
+        helper(root);
         int temp = first.val;
         first.val = second.val;
         second.val = temp;
     }
 
-    private void traverse(TreeNode root) {
-        if (root == null) return;
+    void helper(TreeNode node) {
+        if (node == null) return;
 
-        traverse(root.left);
+        helper(node.left);
 
-        if (first == null && prev.val > root.val) {
-            first = prev;
+        if (prev != null && prev.val > node.val) {
+            if (first == null) {
+                first = prev;
+            }
+            second = node;
         }
-        if (first != null && prev.val > root.val) {
-            second = root;
-        }
-        prev = root;
 
-        traverse(root.right);
+        prev = node;
+
+        helper(node.right);
     }
 }
