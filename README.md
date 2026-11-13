@@ -123,6 +123,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Rotate Image](./48-rotate-image) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [rotate-image.java](./48-rotate-image/rotate-image.java) |
 | [Group Anagrams](./49-group-anagrams) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [group-anagrams.java](./49-group-anagrams/group-anagrams.java) |
 | [Pow(x, n)](./50-powx-n) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [powx-n.java](./50-powx-n/powx-n.java) |
+| [N-Queens](./51-n-queens) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [n-queens.java](./51-n-queens/n-queens.java) |
 | [Jump Game](./55-jump-game) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [jump-game.java](./55-jump-game/jump-game.java) |
 | [Length of Last Word](./58-length-of-last-word) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [length-of-last-word.java](./58-length-of-last-word/length-of-last-word.java) |
 | [Permutation Sequence](./60-permutation-sequence) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [permutation-sequence.java](./60-permutation-sequence/permutation-sequence.java) |
